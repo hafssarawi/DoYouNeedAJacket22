@@ -22,7 +22,6 @@ print("Today the sky is:", sky)
 print("Today is", time)
 
 #issue was here -> 
-print(temp)
 temp_digit = temp[:-1]
 temp_digit = int(temp_digit[:-1])
 
@@ -34,4 +33,3 @@ elif temp_digit < 41:
 
 else:
     print(Fore.YELLOW + "You don't need a jacket today. Enjoy the weather!")
-#Fix the F to C conversion 

@@ -13,6 +13,7 @@ requests = "^2.27.1"
 colorama = "^0.4.4"
 bs4 = "^0.0.1"
 bs2json = "^0.0.3"
+geograpy3 = "^0.2.2"
 
 [tool.poetry.dev-dependencies]
 
